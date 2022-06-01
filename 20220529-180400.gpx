@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with BasicAirData GPS Logger for Android - ver. 3.1.4 -->
+<!-- Track 13 = 196 TrackPoints + 14 Placemarks -->
+
+<!-- Track Statistics (based on Total Time | Time in Movement): -->
+<!--  Distance = 58 m -->
+<!--  Duration = 03:15 | 00:45 -->
+<!--  Altitude Gap = 6 m -->
+<!--  Max Speed = 7 km/h -->
+<!--  Avg Speed = 1,1 | 4,7 km/h -->
+<!--  Direction = SSW -->
+<!--  Activity = walking -->
+
+<gpx version="1.0"
+     creator="BasicAirData GPS Logger 3.1.4"
+     xmlns="http://www.topografix.com/GPX/1/0"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd">
+<name>GPS Logger 20220529-180400</name>
+<desc>Kõlakoja raie</desc>
+<time>2022-05-31T10:20:05Z</time>
+<keywords>walking</keywords>
+<bounds minlat="59.37928837" minlon="24.68222459" maxlat="59.37971152" maxlon="24.68262794" />
+
+<wpt lat="59.37966789" lon="24.68261652"><ele>54.326</ele><time>2022-05-29T15:04:06Z</time><name>M</name><sat>19</sat></wpt>
+
+<wpt lat="59.37960900" lon="24.68249520"><ele>59.771</ele><time>2022-05-29T15:04:27Z</time><name>M</name><sat>20</sat></wpt>
+
+<wpt lat="59.37954440" lon="24.68240472"><ele>57.148</ele><time>2022-05-29T15:04:35Z</time><name>M</name><sat>23</sat></wpt>
+
+<wpt lat="59.37948528" lon="24.68224108"><ele>62.542</ele><time>2022-05-29T15:04:52Z</time><name>M</name><sat>22</sat></wpt>
+
+<wpt lat="59.37948654" lon="24.68223383"><ele>62.821</ele><time>2022-05-29T15:05:01Z</time><name>M</name><sat>21</sat></wpt>
+
+<wpt lat="59.37949839" lon="24.68223734"><ele>62.566</ele><time>2022-05-29T15:05:12Z</time><name>M</name><sat>23</sat></wpt>
+
+<wpt lat="59.37950167" lon="24.68223035"><ele>62.616</ele><time>2022-05-29T15:05:20Z</time><name>M</name><sat>24</sat></wpt>
+
+<wpt lat="59.37950187" lon="24.68223176"><ele>62.835</ele><time>2022-05-29T15:05:28Z</time><name>M</name><sat>26</sat></wpt>
+
+<wpt lat="59.37950295" lon="24.68222869"><ele>62.611</ele><time>2022-05-29T15:05:36Z</time><name>M</name><sat>24</sat></wpt>
+
+<wpt lat="59.37944843" lon="24.68246211"><ele>63.350</ele><time>2022-05-29T15:06:00Z</time><name>M</name><sat>21</sat></wpt>
+
+<wpt lat="59.37946448" lon="24.68249981"><ele>62.341</ele><time>2022-05-29T15:06:13Z</time><name>M</name><sat>25</sat></wpt>
+
+<wpt lat="59.37946099" lon="24.68250984"><ele>61.891</ele><time>2022-05-29T15:06:21Z</time><name>M</name><sat>21</sat></wpt>
+
+<wpt lat="59.37945918" lon="24.68251508"><ele>62.238</ele><time>2022-05-29T15:06:28Z</time><name>M</name><sat>20</sat></wpt>
+
+<wpt lat="59.37937475" lon="24.68251844"><ele>61.291</ele><time>2022-05-29T15:06:49Z</time><name>M</name><sat>24</sat></wpt>
+
+</gpx>
+ 
